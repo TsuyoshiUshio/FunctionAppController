@@ -1,0 +1,10 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureWebJobsDashboard": "UseDevelopmentStorage=true",
+    "CLIENT_ID": "YOUR_CLIENT_ID_HERE",
+    "CLIENT_PASS": "YOUR_CLIENT_PASS_HERE",
+    "TENANT_ID": "YOUR_TENANT_ID_HERE"
+  }
+}

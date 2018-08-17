@@ -1,0 +1,12 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureWebJobsDashboard": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "CosmosDBConnection": "YOUR_COSMOSDB_CONNECTION_HERE",
+    "CLIENT_ID": "YOUR_SERVICE_PRINCIPAL_CLIENT_ID_HERE",
+    "CLIENT_PASS": "YOUR_SERVICE_PRINCIPAL_CLIENT_PASS_HERE",
+    "TENANT_ID": "YOUR_SERVICE_PRINCIPAL_TENANT_ID_HERE"
+  }
+}
