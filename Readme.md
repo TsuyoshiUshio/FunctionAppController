@@ -90,7 +90,7 @@ This Controller create a database `FunctionAppDB` and Collection `FunctionApp`. 
 
 ```
 {
-    "Id": "0c900f95-66ce-405f-9e3f-6251b8a6d397",
+    "id": "26adbd74-3294-4eb8-bdf4-3b7cd328c43d",
     "ResourceGroup": "MultiTenantResource",
     "Name": "sasaasapp02",
     "Location": "westus",
@@ -98,7 +98,6 @@ This Controller create a database `FunctionAppDB` and Collection `FunctionApp`. 
     "FunctionVersion": "1.0.0",
     "FunctionLastUpdate": "2018-08-17T12:49:18.7897068-07:00",
     "CreatedDate": "2018-08-17T12:38:09.9437661-07:00",
-    "id": "26adbd74-3294-4eb8-bdf4-3b7cd328c43d",
     "_rid": "cX0gAPeU7vwDAAAAAAAAAA==",
     "_self": "dbs/cX0gAA==/colls/cX0gAPeU7vw=/docs/cX0gAPeU7vwDAAAAAAAAAA==/",
     "_etag": "\"6a01498f-0000-0000-0000-5b7726bf0000\"",
