@@ -110,6 +110,5 @@ This Controller create a database `FunctionAppDB` and Collection `FunctionApp`. 
 
 Currently I have some issue to fix. 
 
-* When I update the function, it doubles: The root cause is I use Id instead of id. 
 * KeyVault Integration: I should use KeyVault instead directory use Service Prncipal on the AppSettings. 
-
+* Fire and Forget feature 
