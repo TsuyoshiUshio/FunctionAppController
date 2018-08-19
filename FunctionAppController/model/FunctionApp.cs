@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Newtonsoft.Json;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -6,6 +7,7 @@ namespace FunctionAppController.model
 {
     public class FunctionApp
     {
+        [JsonProperty(PropertyName = "id")]
         public string Id { get; set; }
         public string ResourceGroup { get; set; }
         public string Name { get; set; }
